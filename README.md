@@ -22,3 +22,8 @@ Originally implemented in R; this repository includes a Python re-implementation
 - Negative predictor: **deaths**
 - Model reached **~0.72 accuracy (± CI)** with good calibration—useful for early strategic decisions.
 
+  ## Links
+- CMU Capstone Showcase (Spring 2024): https://www.stat.cmu.edu/capstoneresearch/spring2024/
+- Full Project Report (Team 17): https://www.stat.cmu.edu/capstoneresearch/spring2024/460files/team17.pdf
+
+
