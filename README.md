@@ -22,4 +22,3 @@ Originally implemented in R; this repository includes a Python re-implementation
 - Negative predictor: **deaths**
 - Model reached **~0.72 accuracy (± CI)** with good calibration—useful for early strategic decisions.
 
-## Repository Structure
